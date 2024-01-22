@@ -27,7 +27,7 @@ const Hero = (props: Props) => {
           </div>
           <div className="mx-auto lg:mx-0">
             <Link
-              to="/tinh-thue-tncn"
+              to="https://tinhthuetncn.onrender.com"
               className="py-5 px-10 text-2xl font-bold text-white bg-lightGreen rounded lg:py-4 hover:opacity-70"
             >
               Tính Thuế Thu Nhập Cá Nhân
